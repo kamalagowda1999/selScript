@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.Select;
 public class facebookLogin {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated meth  od stub
 		System.setProperty("webdriver.chrome.driver", "./softwares/chromedriver.exe");
 		WebDriver d = new ChromeDriver();
 		d.get("https://en-gb.facebook.com/");
